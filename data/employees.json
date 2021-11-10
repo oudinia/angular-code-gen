@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "1",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "firstName": "Evangelina",
+    "lastName": "England",
+    "gender": "female"
+  }
+]
